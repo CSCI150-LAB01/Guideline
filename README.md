@@ -1,2 +1,1 @@
-# Guidline
-Guidline
+# Guideline
